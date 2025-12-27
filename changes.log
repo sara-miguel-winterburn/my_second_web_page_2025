@@ -1,0 +1,23 @@
+commit d30c9805f20e4aa292e7302c1ad660f21bfaa480
+Author: Sara <9407057@alumnos.ufv.es>
+Date:   Sat Dec 27 12:34:48 2025 +0100
+
+    Update about.html, styles.css, removed some images
+
+commit f5ebcca650ffb604dada150eaa89b9e42d408d6f
+Author: Sara <9407057@alumnos.ufv.es>
+Date:   Sat Dec 27 12:10:33 2025 +0100
+
+    Added all files in docs including HTML, CSS, public, and images
+
+commit 139442653fbd58119f326627da821dda958dbdcd
+Author: Sara <9407057@alumnos.ufv.es>
+Date:   Sat Dec 27 11:26:04 2025 +0100
+
+    Add .gitignore and images folder
+
+commit 65fedb0f1b36938af7b0f2308c415244b8149f61
+Author: arasmw <9407057@alumnos.ufv.es>
+Date:   Sat Dec 27 10:51:15 2025 +0100
+
+    Initial commit
